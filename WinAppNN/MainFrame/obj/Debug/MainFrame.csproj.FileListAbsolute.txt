@@ -1,0 +1,11 @@
+C:\Users\obzaj\source\repos\WinAppNN\MainFrame\bin\Debug\MainFrame.exe.config
+C:\Users\obzaj\source\repos\WinAppNN\MainFrame\bin\Debug\MainFrame.exe
+C:\Users\obzaj\source\repos\WinAppNN\MainFrame\bin\Debug\MainFrame.pdb
+C:\Users\obzaj\source\repos\WinAppNN\MainFrame\bin\Debug\WinAppNN.exe
+C:\Users\obzaj\source\repos\WinAppNN\MainFrame\bin\Debug\WinAppNN.pdb
+C:\Users\obzaj\source\repos\WinAppNN\MainFrame\bin\Debug\WinAppNN.exe.config
+C:\Users\obzaj\source\repos\WinAppNN\MainFrame\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+C:\Users\obzaj\source\repos\WinAppNN\MainFrame\obj\Debug\MainFrame.csproj.CoreCompileInputs.cache
+C:\Users\obzaj\source\repos\WinAppNN\MainFrame\obj\Debug\MainFrame.csproj.CopyComplete
+C:\Users\obzaj\source\repos\WinAppNN\MainFrame\obj\Debug\MainFrame.exe
+C:\Users\obzaj\source\repos\WinAppNN\MainFrame\obj\Debug\MainFrame.pdb

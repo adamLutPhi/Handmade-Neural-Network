@@ -1,0 +1,9 @@
+C:\Users\obzaj\source\repos\WinAppNN\WinAppNN\obj\Debug\WinAppNN.csprojResolveAssemblyReference.cache
+C:\Users\obzaj\source\repos\WinAppNN\WinAppNN\obj\Debug\WinAppNN.Properties.Resources.resources
+C:\Users\obzaj\source\repos\WinAppNN\WinAppNN\obj\Debug\WinAppNN.csproj.GenerateResource.cache
+C:\Users\obzaj\source\repos\WinAppNN\WinAppNN\obj\Debug\WinAppNN.csproj.CoreCompileInputs.cache
+C:\Users\obzaj\source\repos\WinAppNN\WinAppNN\bin\Debug\WinAppNN.exe.config
+C:\Users\obzaj\source\repos\WinAppNN\WinAppNN\bin\Debug\WinAppNN.exe
+C:\Users\obzaj\source\repos\WinAppNN\WinAppNN\bin\Debug\WinAppNN.pdb
+C:\Users\obzaj\source\repos\WinAppNN\WinAppNN\obj\Debug\WinAppNN.exe
+C:\Users\obzaj\source\repos\WinAppNN\WinAppNN\obj\Debug\WinAppNN.pdb
